@@ -13,12 +13,7 @@
 
 # About Me
 
-I'm an **AI/ML Engineer & Researcher** deeply immersed in the world of machine learning. Currently studying **Computer Science** at **BRAC University**, my drive stems from building intelligent systems with LLMs and Deep Learning across diverse domains like NLP, Computer Vision, and Bioinformatics. I'm actively engaged in multiple roles:
-
-- 🎓 **Computer Science Undergrad** at **BRAC University**
-- 🔬 **Researcher** specializing in **NLP, Computer Vision, & Bioinformatics**
-- 🛠️ Building intelligent systems with **LLMs & Deep Learning**
-- 📊 Active Competitor in **Kaggle Competitions**
+A guy who translates massive amounts of coffee into functional neural networks and builds autonomous architectures that actually make sense (and hopefully don’t become self-aware too soon). When I'm not questioning my life choices during an endless loop of hyperparameter tuning, I spend my time exploring AI research and making sure my code doesn't crash on execution.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
