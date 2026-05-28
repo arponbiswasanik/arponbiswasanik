@@ -13,7 +13,7 @@
 
 # About Me
 
-A guy who translates massive amounts of coffee into functional neural networks and builds autonomous architectures that actually make sense (and hopefully don’t become self-aware too soon). When I'm not questioning my life choices during an endless loop of hyperparameter tuning, I spend my time exploring AI research and making sure my code doesn't crash on execution.
+Just a guy who translates massive amounts of coffee into functional neural networks and builds autonomous architectures that actually make sense (and hopefully don’t become self-aware too soon). When I'm not questioning my life choices during an endless loop of hyperparameter tuning, I spend my time exploring AI research and trusting random seed 42 with my entire life! :D
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
