@@ -84,10 +84,10 @@ Just a guy who translates massive amounts of coffee into functional neural netwo
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- Replace the '#' and 'your-email' below with your actual profile links and email address -->
-  <a href="#">
+  <a href="www.linkedin.com/in/arponbiswasanik">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="www.facebook.com/arponbiswasanik">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:arponbiswasanik1@gmail.com">
