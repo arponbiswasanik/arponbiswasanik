@@ -4,14 +4,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+%40+BRAC+University;AI%2FML+Engineer+%26+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Researcher)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-# 👨‍💻 About Me
+# About Me
 
 I'm an **AI/ML Engineer & Researcher** deeply immersed in the world of machine learning. Currently studying **Computer Science** at **BRAC University**, my drive stems from building intelligent systems with LLMs and Deep Learning across diverse domains like NLP, Computer Vision, and Bioinformatics. I'm actively engaged in multiple roles:
 
@@ -24,7 +24,7 @@ I'm an **AI/ML Engineer & Researcher** deeply immersed in the world of machine l
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-# 🛠️ Tech Stack & Skills
+# Tech Stack & Skills
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -82,7 +82,7 @@ I'm an **AI/ML Engineer & Researcher** deeply immersed in the world of machine l
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-# 🔗 Connect With Me
+# Connect With Me
 
 <div align="center">
   <a href="https://github.com/arponbiswasanik">
@@ -95,7 +95,7 @@ I'm an **AI/ML Engineer & Researcher** deeply immersed in the world of machine l
   <a href="#">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:arponbiswasanik1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
