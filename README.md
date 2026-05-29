@@ -53,7 +53,7 @@ Just a guy who translates massive amounts of coffee into functional neural netwo
         <img src="https://media.giphy.com/media/GEXwIrJTZNYWh42tFs/giphy.gif" width ="25"><b> ML / DL & Viz Tools</b>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width ="25"><b> DevOps & Robotics</b>
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width ="25"><b> DevOps </b>
       </td>
     </tr>
     <tr>
