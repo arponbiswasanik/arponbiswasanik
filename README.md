@@ -21,10 +21,10 @@ Just a guy who translates massive amounts of coffee into functional neural netwo
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="vertical-align: middle;"><b> Languages</b>
       </td>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="25"><b> Frameworks & Libraries</b>
+        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="25" style="vertical-align: middle;"><b> Frameworks & Libraries</b>
       </td>
     </tr>
     <tr>
@@ -46,10 +46,10 @@ Just a guy who translates massive amounts of coffee into functional neural netwo
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/GEXwIrJTZNYWh42tFs/giphy.gif" width ="25"><b> ML / DL & Viz Tools</b>
+        <img src="https://media.giphy.com/media/GEXwIrJTZNYWh42tFs/giphy.gif" width ="25" style="vertical-align: middle;"><b> ML / DL & Viz Tools</b>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width ="25"><b> DevOps </b>
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width ="25" style="vertical-align: middle;"><b> DevOps </b>
       </td>
     </tr>
     <tr>
