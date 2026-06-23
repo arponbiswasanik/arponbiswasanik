@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=#FFECDB&height=150&section=header&text=arponbiswasanik&fontSize=60&animation=fadeIn" />
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=Hello+there!+%3AD)](https://git.io/typing-svg)
 </div>
@@ -13,7 +9,7 @@
 
 # About Me
 
-Just a guy who translates massive amounts of coffee into functional neural networks and builds autonomous architectures that actually make sense (and hopefully don’t become self-aware too soon). When I'm not questioning my life choices during an endless loop of hyperparameter tuning, I spend my time exploring AI research and trusting random seed 42 with my entire life! :)
+Just a guy who translates massive amounts of coffee into functional neural networks and builds autonomous architectures that actually make sense (and hopefully don't become self-aware too soon). When I'm not questioning my life choices during an endless loop of hyperparameter tuning, I spend my time exploring AI research and trusting random seed 42 with my entire life! :)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -83,7 +79,6 @@ Just a guy who translates massive amounts of coffee into functional neural netwo
   <a href="https://github.com/arponbiswasanik">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Replace the '#' and 'your-email' below with your actual profile links and email address -->
   <a href="https://www.linkedin.com/in/arponbiswasanik">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
