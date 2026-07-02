@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&duration=3000&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&lines=Do+you+see+how+infinite+you+are%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&duration=3000&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&lines=%22Do+you+see+how+infinite+you+are%3F%22)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
