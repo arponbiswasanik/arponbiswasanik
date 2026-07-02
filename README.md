@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=3&width=1000" width="100%">
 </div>
 
 # About Me
@@ -12,7 +12,7 @@
 Just a guy who translates massive amounts of coffee into functional neural networks and builds autonomous architectures that actually make sense (and hopefully don't become self-aware too soon). When I'm not questioning my life choices during an endless loop of hyperparameter tuning, I spend my time exploring AI research and trusting random seed 42 with my entire life! :)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=3&width=1000" width="100%">
 </div>
 
 # Tech Stack & Skills
@@ -70,7 +70,7 @@ Just a guy who translates massive amounts of coffee into functional neural netwo
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=3&width=1000" width="100%">
 </div>
 
 # Connect With Me
